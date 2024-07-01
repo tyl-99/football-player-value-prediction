@@ -13,6 +13,7 @@ This project demonstrates the use of a Feedforward Neural Network (FFN) to predi
 - [Usage](#usage)
 
 ## Overview
+![image](https://github.com/tyl-99/football-player-value-prediction/assets/71328888/57b37e27-6a6d-4351-9c2f-0372bf26a0c9)
 
 This project aims to predict the market value of football players using a Feedforward Neural Network (FFN). The model is trained on a dataset containing various features related to the players, such as age, position, performance statistics, and more.
 
